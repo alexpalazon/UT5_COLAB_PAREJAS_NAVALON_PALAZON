@@ -22,9 +22,9 @@ git clone https://github.com/alexpalazon/UT5_COLAB_PAREJAS_NAVALON_PALAZON
 
 git checkout -b feature-NombreAlumnoB
 
-# --------------------------------------------------
+# -------------------------------------------------
 # HACER COMMIT
-# --------------------------------------------------
+# -------------------------------------------------
 # El commit guarda los cambios de forma local en tu rama.
 # Primero se añaden los archivos y luego se hace el commit con mensaje etiquetado.
 
